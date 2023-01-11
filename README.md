@@ -9,7 +9,7 @@ Changes throughout:
 - moved board printing to printBoard() function
 
 ### PewPew [Mark 1.1] (2443 4DEC19)
-/assets/screenshots/1.1.png
+/screenshots/1.1.png
 - added goToRC(), setColor();
 - included <windows.h> library for windows commands
 - moved movements to getMove() function
