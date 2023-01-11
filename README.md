@@ -9,7 +9,7 @@ Changes throughout:
 - moved board printing to printBoard() function
 
 ### PewPew [Mark 1.1] (2443 4DEC19)
-screenshots/1.1.png
+![ScreenShot](/screenshots/1.1.png)
 - added goToRC(), setColor();
 - included <windows.h> library for windows commands
 - moved movements to getMove() function
@@ -27,6 +27,7 @@ screenshots/1.1.png
 END-OF-MARK-1.1-(0236 4DEC19)
 
 ### PewPew [Mark 1.2] (1312 4DEC19)
+  ![ScreenShot](/screenshots/1.2.png)
 - added function generateEnemies() to generate enemy on a random collumn on row 0
 - included <ctime> for srand to use machine time
 - added timer for next enemy to spawn, added spawnrate as timer cap 
@@ -39,6 +40,7 @@ END-OF-MARK-1.2-(1338 4DEC19)
 END-OF-MARK-1.2.1-(1346 4DEC19)
 
 ### PewPew [Mark 1.3] (1558 4DEC19)
+  ![ScreenShot](/screenshots/1.3.png)
 - included <conio.h> for getch();
 - added try again functionality
 - added panelTryAgain() to print Try Again message on the bottom panel
@@ -63,6 +65,7 @@ END-OF-MARK-1.3-(1725 4DEC19)
 END-OF-MARK-2.0-(1213 5DEC19)
 
 ### PewPew [Mark2.1] (1125 6DEC19)
+  ![ScreenShot](/screenshots/2.1.png)
 - move healthbar to middle
 - larger healthbar, health count still 10
 - moved score
@@ -89,6 +92,7 @@ END-OF-MARK-2.1-(1303 6DEC19)
 END-OF-MARK-3.0 (1956 8DEC19)
 
 ### PewPew 2 [Mark3.1] (0058 11DEC19)
+  ![ScreenShot](/screenshots/3.1.png)
 - readded getmove
 - added resizeFont function (code not mine)
 - readded bullet function
@@ -113,6 +117,7 @@ END-OF-MARK-3.0 (1956 8DEC19)
 END-OF-MARK-3.1 (0519 11DEC19)
 
 ### PewPew 2 [Mark3.2] (0605 13DEC19)
+  ![ScreenShot](/screenshots/3.2.png)
 - changed letters() function to artAlphaNumeric();
 - added function artDictionary();
 - added more letters to artAlphaNumeric();
