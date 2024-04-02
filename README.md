@@ -1,6 +1,10 @@
 # pewpew
 ## A simple space-invader-like game for Windows terminal made with DevC++
 
+<p align="center">
+  <img alt="pewpew game image" src="https://github.com/thejadenode/pewpew/blob/10433b1e8c97fbce2167750af4d0eb8ed0247f41/screenshots/Online%20Portfolio.png">
+</p>
+
 ## How to run
 Simply download the exe release and run. Windows may block the file. If so, press 'More Info' and then 'Run anyway'.
 The whole game code can be checked within this repo if you wish.
