@@ -1,7 +1,26 @@
 # pewpew
-## A simple C++ game
+## A simple space-invader-like game for Windows terminal made with DevC++
 
-Changes throughout:
+## How to run
+Simply download the exe release and run. Windows may block the file. If so, press 'More Info' and then 'Run anyway'.
+The whole game code can be checked within this repo if you wish.
+
+## How to play
+### Controls
+You move a spaceship left and right using W and D. Space mines (large asterisks) will occasionally spawn from the top of the screen. Destroy each spacemine by firing using spacebar.
+
+### Rules
+Your ship has a specific amount of health, decreased everytime a spacemine goes past your ship.
+
+Health packs may occasionally spawn. Grab them to restore 1 health. Be careful when firing since you might also destroy health packs.
+
+Every specified amount of score makes the game faster.
+
+The game ends when your ship has no more health or if a spacemine directly hits your ship.
+
+-------------------------------------
+
+# Patch Notes
 ### PewPew [Mark 1] (2425 4DEC19)
 - beta stage
 - added left and right movements
